@@ -1,0 +1,8 @@
+- 9959ca2: docs: Update README (SreenitaPadarthi06, 27 minutes ago)
+- d56c096: docs: Add FAQ section (SreenitaPadarthi06, 31 minutes ago)
+- 7b9a783: Merge branch 'conflict-simulator' (SreenitaPadarthi06, 36 minutes ago)
+- 29f5865: Add server.js and package-lock.json (SreenitaPadarthi06, 54 minutes ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 6 days ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
